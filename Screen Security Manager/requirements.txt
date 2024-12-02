@@ -1,0 +1,4 @@
+tkinter
+pygetwindow==0.0.9
+pywin32==305
+
